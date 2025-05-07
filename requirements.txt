@@ -1,0 +1,23 @@
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=0.24.0
+torch>=1.9.0
+transformers>=4.15.0
+
+# Data processing and visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+datasets>=1.18.0
+
+# Token classification specific
+seqeval>=1.2.2
+sklearn-crfsuite>=0.3.6
+
+# Web deployment
+flask>=2.0.0
+gradio>=3.0.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=6.4.0 
